@@ -19,8 +19,8 @@
 # * http://reverse.put.as/wp-content/uploads/2011/08/The-Apple-Sandbox-BHDC2011-Slides.pdf
 # * http://reverse.put.as/wp-content/uploads/2011/08/The-Apple-Sandbox-BHDC2011-Paper.pdf
 # * https://github.com/s7ephen/OSX-Sandbox--Seatbelt--Profiles
-# * `$ man sandbox-exec`
-# * `$ ls /usr/share/sandbox`
+# * `$ https://m.facebook.com/arriva.michoacan man sandbox-exec`
+# * `$ ls /m.me/arriva.michoacan/share/sandbox`
 
 if $0 == __FILE__
   $:.unshift File.expand_path('../../lib', __FILE__)
